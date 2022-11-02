@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+}
+
+.box {
+  margin: 30px;
+  background-color: #404258;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+h1 {
+  color: #fff;
+}
+
+p {
+  color: #dedede;
+  text-align: justify;
+}
+
+#profile_avatar {
+  border-radius: 100%;
+  width: 100px;
+}
